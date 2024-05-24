@@ -11,7 +11,7 @@
 
 - 🎸 I love to play **Guitar**
 
-- 💬 Ask me about **Cars, Motorcycles**
+- 💬 Ask me about **What I do at work and Motorcycles**
 
 - 📫 How to reach me **ishtiaqe22@gmail.com**
 
