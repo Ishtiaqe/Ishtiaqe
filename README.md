@@ -5,7 +5,7 @@
 
 - 💼 I’m currently working at **Gigalogy**
 
-- 🌱 I’m currently learning **Vue.js**
+- 🌱 I’m currently learning **ZKP in Blockchain**
 
 - 🤝 I’m looking to collaborate on [Research Projects](https://www.researchgate.net/profile/Ishtiaqe-Hanif-2)
 
