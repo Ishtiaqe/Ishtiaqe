@@ -1,12 +1,10 @@
 <h1 align="center">Hi 👋, this is Ishtiaqe.</h1>
-<h3 align="center">A thriving Software Engineer from Dhaka.</h3>
+<h3 align="center">A thriving Software Engineer in Hamburg, Germany.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ishtiaqe&label=Profile%20views&color=0e75b6&style=flat" alt="ishtiaqe" /> </p>
 
-- 💼 I’m currently working at **Gigalogy**
-
-- 🌱 I’m currently learning **ZKP in Blockchain**
-
+- Studying Masters in IT Engineering at Fachhochschule Wedel.
+  
 - 🤝 I’m looking to collaborate on [Research Projects](https://www.researchgate.net/profile/Ishtiaqe-Hanif-2)
 
 - 🎸 I love to play **Guitar**
